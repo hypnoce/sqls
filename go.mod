@@ -1,4 +1,4 @@
-module github.com/lighttiger2505/sqls
+module github.com/hypnoce/sqls
 
 go 1.13
 

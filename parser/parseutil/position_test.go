@@ -3,8 +3,8 @@ package parseutil
 import (
 	"testing"
 
-	"github.com/lighttiger2505/sqls/parser"
-	"github.com/lighttiger2505/sqls/token"
+	"github.com/hypnoce/sqls/parser"
+	"github.com/hypnoce/sqls/token"
 )
 
 func TestCheckSyntaxPosition(t *testing.T) {

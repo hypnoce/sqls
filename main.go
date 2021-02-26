@@ -10,8 +10,8 @@ import (
 
 	"github.com/sourcegraph/jsonrpc2"
 
-	"github.com/lighttiger2505/sqls/internal/config"
-	"github.com/lighttiger2505/sqls/internal/handler"
+	"github.com/hypnoce/sqls/config"
+	"github.com/hypnoce/sqls/handler"
 )
 
 // builtin variables. see Makefile

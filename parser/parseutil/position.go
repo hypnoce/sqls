@@ -1,9 +1,9 @@
 package parseutil
 
 import (
-	"github.com/lighttiger2505/sqls/ast"
-	"github.com/lighttiger2505/sqls/ast/astutil"
-	"github.com/lighttiger2505/sqls/token"
+	"github.com/hypnoce/sqls/ast"
+	"github.com/hypnoce/sqls/ast/astutil"
+	"github.com/hypnoce/sqls/token"
 )
 
 type SyntaxPosition string
